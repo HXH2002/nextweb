@@ -11,7 +11,7 @@ const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
   title: "ChatXH",
-  description: "Powered by 星环大模型",
+  description: "Powered by 星环大模型.",
   viewport: {
     width: "device-width",
     initialScale: 1,
